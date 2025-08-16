@@ -22,6 +22,8 @@ Thêm vào đó, chúng ta cũng sẽ triển khai **EC2 Instance** với mỗi 
 - Amazon Virtual Private Cloud (Amazon VPC) là dịch vụ cho phép bạn khởi chạy các tài nguyên AWS trong mạng ảo cô lập theo logic mà bạn xác định. Bạn có toàn quyền kiểm soát môi trường mạng ảo của mình, bao gồm lựa chọn dải địa chỉ IP, tạo các mạng con, cấu hình các bảng định tuyến và cổng kết nối mạng.
 #### EC2 Instance
 - Là một cơ sở hạ tầng điện toán đám mây được cung cấp bởi Amazon Web Services (AWS) giúp cung cấp tài nguyên máy tính ảo hoá theo yêu cầu.Tương tự với máy chủ , EC2 được tạo nhanh chóng và đảm bảo tính sẵn sàng cao nhất.
+
+{{% notice info %}}File terraform của bài workshop [Link](https://github.com/Hieu1812/WS1-Transitgateway/blob/main/main.tf){{% /notice %}}
 #### Nội dung:
 1. [Khởi tạo VPC](1-VPC)
 2. [Khởi tạo EC2](2-EC2)
